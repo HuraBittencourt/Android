@@ -1,2 +1,4 @@
 # Android
-First android project
+First android project.
+
+Test edition on local repository.
